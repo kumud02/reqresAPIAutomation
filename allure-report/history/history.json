@@ -1,0 +1,122 @@
+{
+  "b699254263dbca2b74ffb28abe0079b8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "bd7c8bb54c1d49ff",
+      "reportUrl" : "http://localhost:8080/job/ReqRes%20API%20Automation%20Project/22/allure/#testresult/bd7c8bb54c1d49ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592503142366,
+        "stop" : 1592503142590,
+        "duration" : 224
+      }
+    } ]
+  },
+  "1fdfa94e9c276044120b8409594b795e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fb526f8ed1b82d9a",
+      "reportUrl" : "http://localhost:8080/job/ReqRes%20API%20Automation%20Project/22/allure/#testresult/fb526f8ed1b82d9a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592503148339,
+        "stop" : 1592503148401,
+        "duration" : 62
+      }
+    } ]
+  },
+  "ca4782b16a7a00240c4f2c71a0f4fe42" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f4788c5b43c3dae8",
+      "reportUrl" : "http://localhost:8080/job/ReqRes%20API%20Automation%20Project/22/allure/#testresult/f4788c5b43c3dae8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592503141503,
+        "stop" : 1592503141922,
+        "duration" : 419
+      }
+    } ]
+  },
+  "681cebfa6cf567ec4831389f6b644fd1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7b6bb460c1dcd26",
+      "reportUrl" : "http://localhost:8080/job/ReqRes%20API%20Automation%20Project/22/allure/#testresult/7b6bb460c1dcd26",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592503146830,
+        "stop" : 1592503148235,
+        "duration" : 1405
+      }
+    } ]
+  },
+  "6b1c3c7b2be563c8b30bbe78cdf5938d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a3efaa098df985bb",
+      "reportUrl" : "http://localhost:8080/job/ReqRes%20API%20Automation%20Project/22/allure/#testresult/a3efaa098df985bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592503138189,
+        "stop" : 1592503141354,
+        "duration" : 3165
+      }
+    } ]
+  },
+  "d4cc638cae5a5fe6d9ff0aea7caf6d33" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "cadc38e0070fc35e",
+      "reportUrl" : "http://localhost:8080/job/ReqRes%20API%20Automation%20Project/22/allure/#testresult/cadc38e0070fc35e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592503141940,
+        "stop" : 1592503142354,
+        "duration" : 414
+      }
+    } ]
+  }
+}

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="runner.RunTest" time="6.801" tests="4" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="14"/>
+    <property name="RUN_DISPLAY_URL" value="http://localhost:8080/job/ReqRes%20API%20Automation%20Project/22/display/redirect"/>
+    <property name="HUDSON_HOME" value="C:\Program Files (x86)\Jenkins"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://localhost:8080/job/ReqRes%20API%20Automation%20Project/22/display/redirect?page=changes"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="WINSW_SERVICE_ID" value="Jenkins"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="JENKINS_SERVER_COOKIE" value="5c0ca8e29907b0e6"/>
+    <property name="SERVICE_ID" value="Jenkins"/>
+    <property name="USERNAME" value="AITSLPT-KUMUD$"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="JENKINS_URL" value="http://localhost:8080/"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-14.0.1\bin"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main D:\apache-maven-3.6.3 C:\Program Files (x86)\Jenkins\war\WEB-INF\lib\remoting-3.36.1.jar C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar 2131"/>
+    <property name="maven.home" value="D:\apache-maven-3.6.3"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+    <property name="POM_GROUPID" value="com"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-04-14"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-14.0.1"/>
+    <property name="JENKINS_HOME" value="C:\Program Files (x86)\Jenkins"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="NODE_NAME" value="master"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="BUILD_DISPLAY_NAME" value="#22"/>
+    <property name="PROCESSOR_IDENTIFIER" value="Intel64 Family 6 Model 142 Stepping 10, GenuineIntel"/>
+    <property name="maven3.interceptor" value="C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.13.jar"/>
+    <property name="PATH+MAVEN" value="D:\apache-maven-3.6.3/bin"/>
+    <property name="maven3.interceptor.common" value="C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.13.jar"/>
+    <property name="ProgramFiles" value="C:\Program Files (x86)"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="14.0.1+7"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk-14.0.1"/>
+    <property name="user.name" value="AITSLPT-KUMUD$"/>
+    <property name="POM_ARTIFACTID" value="reqresAPIAutomation"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="APPDATA" value="C:\WINDOWS\system32\config\systemprofile\AppData\Roaming"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="HUDSON_URL" value="http://localhost:8080/"/>
+    <property name="WORKSPACE" value="D:\Learning\API Testing\API-Automation-Project\reqresAPIAutomation"/>
+    <property name="Path" value="C:\Program Files\Java\jdk-14.0.1/bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Git\cmd;D:\apache-maven-3.6.3\bin;C:\Users\kumud.kharel\AppData\Local\Programs\Python\Python38-32\;C:\Users\kumud.kharel\AppData\Local\Programs\Python\Python38-32\Scripts\;D:\allure-2.13.1\bin;D:\node;D:\Apache Jmeter\apache-jmeter-5.1.1\apache-jmeter-5.1.1\bin;C:\Program Files\Java\jdk-14.0.1\bin;C:\Program Files\Java\jdk-14.0.1\bin;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps"/>
+    <property name="java.io.tmpdir" value="C:\WINDOWS\TEMP\"/>
+    <property name="java.version" value="14.0.1"/>
+    <property name="COMPUTERNAME" value="AITSLPT-KUMUD"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="JOB_BASE_NAME" value="ReqRes API Automation Project"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-14.0.1\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;D:\apache-maven-3.6.3/bin;C:\Program Files\Java\jdk-14.0.1/bin;C:\Program Files\Java\jdk-14.0.1/bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Program Files (x86)\Microsoft SQL Server\150\DTS\Binn\;C:\Program Files\Git\cmd;D:\apache-maven-3.6.3\bin;C:\Users\kumud.kharel\AppData\Local\Programs\Python\Python38-32\;C:\Users\kumud.kharel\AppData\Local\Programs\Python\Python38-32\Scripts\;D:\allure-2.13.1\bin;D:\node;D:\Apache Jmeter\apache-jmeter-5.1.1\apache-jmeter-5.1.1\bin;C:\Program Files\Java\jdk-14.0.1\bin;C:\Program Files\Java\jdk-14.0.1\bin;C:\WINDOWS\system32\config\systemprofile\AppData\Local\Microsoft\WindowsApps;."/>
+    <property name="BUILD_NUMBER" value="22"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="BUILD_URL" value="http://localhost:8080/job/ReqRes%20API%20Automation%20Project/22/"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="POM_DISPLAYNAME" value="Reqres API Automation Project"/>
+    <property name="NUMBER_OF_PROCESSORS" value="8"/>
+    <property name="PROCESSOR_LEVEL" value="6"/>
+    <property name="VS140COMNTOOLS" value="C:\Program Files (x86)\Microsoft Visual Studio 14.0\Common7\Tools\"/>
+    <property name="JOB_URL" value="http://localhost:8080/job/ReqRes%20API%20Automation%20Project/"/>
+    <property name="java.class.path" value="C:\Program Files (x86)\Jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.13.jar;D:\apache-maven-3.6.3\boot\plexus-classworlds-2.6.0.jar;D:\apache-maven-3.6.3/conf/logging"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="x86"/>
+    <property name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules"/>
+    <property name="user.variant" value=""/>
+    <property name="MAVEN_HOME" value="D:\apache-maven-3.6.3"/>
+    <property name="user.timezone" value="Asia/Katmandu"/>
+    <property name="maven.conf" value="D:\apache-maven-3.6.3\conf"/>
+    <property name="java.vm.specification.version" value="14"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="BUILD_TAG" value="jenkins-ReqRes API Automation Project-22"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="PROCESSOR_ARCHITEW6432" value="AMD64"/>
+    <property name="user.home" value="C:\WINDOWS\system32\config\systemprofile"/>
+    <property name="user.language" value="en"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="JOB_DISPLAY_URL" value="http://localhost:8080/job/ReqRes%20API%20Automation%20Project/display/redirect"/>
+    <property name="M2_HOME" value="D:\apache-maven-3.6.3"/>
+    <property name="WINSW_EXECUTABLE" value="C:\Program Files (x86)\Jenkins\jenkins.exe"/>
+    <property name="LOCALAPPDATA" value="C:\WINDOWS\system32\config\systemprofile\AppData\Local"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="USERDOMAIN" value="AITS"/>
+    <property name="path.separator" value=";"/>
+    <property name="BUILD_ID" value="22"/>
+    <property name="os.version" value="10.0"/>
+    <property name="BASE" value="C:\Program Files (x86)\Jenkins"/>
+    <property name="JOB_NAME" value="ReqRes API Automation Project"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="NODE_LABELS" value="master"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk-14.0.1/bin"/>
+    <property name="CommonProgramFiles" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="user.dir" value="D:\Learning\API Testing\API-Automation-Project\reqresAPIAutomation"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="HUDSON_SERVER_COOKIE" value="5c0ca8e29907b0e6"/>
+    <property name="PROCESSOR_REVISION" value="8e0a"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="TEMP" value="C:\WINDOWS\TEMP"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vm.version" value="14.0.1+7"/>
+    <property name="USERPROFILE" value="C:\WINDOWS\system32\config\systemprofile"/>
+    <property name="TMP" value="C:\WINDOWS\TEMP"/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="java.class.version" value="58.0"/>
+  </properties>
+  <testcase name="runScenario" classname="runner.RunTest" time="3.616"/>
+  <testcase name="runScenario" classname="runner.RunTest" time="0.431"/>
+  <testcase name="runScenario" classname="runner.RunTest" time="0.427"/>
+  <testcase name="runScenario" classname="runner.RunTest" time="0.23"/>
+</testsuite>

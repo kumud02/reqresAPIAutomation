@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jun 18 23:44:02 NPT 2020","Thu Jun 18 23:44:02 NPT 2020","224","","List Users","","List Users with valid page value","","List Users with valid page value",""
+"passed","Thu Jun 18 23:44:01 NPT 2020","Thu Jun 18 23:44:01 NPT 2020","419","","List Users","","List Users with valid page value 3","","List Users with valid page value 3",""
+"passed","Thu Jun 18 23:44:06 NPT 2020","Thu Jun 18 23:44:08 NPT 2020","1405","Rest-Assured TestNG Tests","ListUsers","services.ListUsers","services.ListUsers","testListUserWithValidPageNumber","testListUserWithValidPageNumber",""
+"passed","Thu Jun 18 23:44:01 NPT 2020","Thu Jun 18 23:44:02 NPT 2020","414","","List Users","","List Users with valid page value 4","","List Users with valid page value 4",""
+"passed","Thu Jun 18 23:43:58 NPT 2020","Thu Jun 18 23:44:01 NPT 2020","3165","","List Users","","List Users with valid page value 2","","List Users with valid page value 2",""
+"passed","Thu Jun 18 23:44:08 NPT 2020","Thu Jun 18 23:44:08 NPT 2020","62","Rest-Assured TestNG Tests","ListUsers","services.ListUser2","services.ListUser2","testListUserWithValidPageNumber","testListUserWithValidPageNumber",""

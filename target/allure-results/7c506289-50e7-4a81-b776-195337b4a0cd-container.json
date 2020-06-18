@@ -1,0 +1,1 @@
+{"uuid":"7c506289-50e7-4a81-b776-195337b4a0cd","name":"services.ListUser2","children":["004f8af6-5e86-4feb-8e7b-a4e0fcf76979"],"befores":[{"name":"setEndPoint","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1592503148335,"stop":1592503148337}],"afters":[],"links":[],"start":1592503145408,"stop":1592503148551}

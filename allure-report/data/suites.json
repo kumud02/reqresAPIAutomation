@@ -1,0 +1,103 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "List Users",
+    "children" : [ {
+      "name" : "List Users with valid page value 2",
+      "uid" : "a3efaa098df985bb",
+      "parentUid" : "06ad38a4e8f45f7bf5b74932a9f28fda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592503138189,
+        "stop" : 1592503141354,
+        "duration" : 3165
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "List Users with valid page value 3",
+      "uid" : "f4788c5b43c3dae8",
+      "parentUid" : "06ad38a4e8f45f7bf5b74932a9f28fda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592503141503,
+        "stop" : 1592503141922,
+        "duration" : 419
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "List Users with valid page value 4",
+      "uid" : "cadc38e0070fc35e",
+      "parentUid" : "06ad38a4e8f45f7bf5b74932a9f28fda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592503141940,
+        "stop" : 1592503142354,
+        "duration" : 414
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "List Users with valid page value",
+      "uid" : "bd7c8bb54c1d49ff",
+      "parentUid" : "06ad38a4e8f45f7bf5b74932a9f28fda",
+      "status" : "passed",
+      "time" : {
+        "start" : 1592503142366,
+        "stop" : 1592503142590,
+        "duration" : 224
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "06ad38a4e8f45f7bf5b74932a9f28fda"
+  }, {
+    "name" : "Rest-Assured TestNG Tests",
+    "children" : [ {
+      "name" : "ListUsers",
+      "children" : [ {
+        "name" : "services.ListUsers",
+        "children" : [ {
+          "name" : "testListUserWithValidPageNumber",
+          "uid" : "7b6bb460c1dcd26",
+          "parentUid" : "0020d45e5ecc64dd507b2ac1ea6c19ff",
+          "status" : "passed",
+          "time" : {
+            "start" : 1592503146830,
+            "stop" : 1592503148235,
+            "duration" : 1405
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "0020d45e5ecc64dd507b2ac1ea6c19ff"
+      }, {
+        "name" : "services.ListUser2",
+        "children" : [ {
+          "name" : "testListUserWithValidPageNumber",
+          "uid" : "fb526f8ed1b82d9a",
+          "parentUid" : "b101bfba7afc98fa147e1e866d27e986",
+          "status" : "passed",
+          "time" : {
+            "start" : 1592503148339,
+            "stop" : 1592503148401,
+            "duration" : 62
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b101bfba7afc98fa147e1e866d27e986"
+      } ],
+      "uid" : "4bd62c887da256fcc5ce2cad3e521f61"
+    } ],
+    "uid" : "dbb89eed00af0ef656ef2808f063de78"
+  } ]
+}
