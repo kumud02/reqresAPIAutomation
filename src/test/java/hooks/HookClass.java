@@ -8,12 +8,10 @@ import io.cucumber.java.Before;
 public class HookClass {
 	@Before
 	public void setup() {
-		System.out.println("Setup Done");
 
 	}
 
 	@After
 	public void tearDown() throws IOException {
-		System.out.println("Tear Down");
 	}
 }

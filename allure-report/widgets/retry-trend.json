@@ -1,9 +1,0 @@
-[ {
-  "buildOrder" : 22,
-  "reportUrl" : "http://localhost:8080/job/ReqRes%20API%20Automation%20Project/22/allure",
-  "reportName" : "AllureReport",
-  "data" : {
-    "run" : 6,
-    "retry" : 0
-  }
-} ]

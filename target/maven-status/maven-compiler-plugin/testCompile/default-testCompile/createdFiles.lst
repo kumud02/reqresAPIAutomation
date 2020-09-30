@@ -1,6 +1,8 @@
 services\ListUser2.class
+utility\FileHandler.class
 hooks\HookClass.class
 stepDefinitions\ListUsersStepDefinition.class
+services\AfterClassCleanup.class
 services\BaseRequest.class
 runner\RunTest.class
 services\ListUsers.class

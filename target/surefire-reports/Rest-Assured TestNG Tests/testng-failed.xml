@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Rest-Assured TestNG Tests]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="ListUsers(failed)" verbose="0">
+    <classes>
+      <class name="services.ListUser2">
+        <methods>
+          <include name="testListUserWithValidPageNumber"/>
+          <include name="setEndPoint"/>
+        </methods>
+      </class> <!-- services.ListUser2 -->
+    </classes>
+  </test> <!-- ListUsers(failed) -->
+</suite> <!-- Failed suite [Rest-Assured TestNG Tests] -->
